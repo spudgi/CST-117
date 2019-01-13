@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.Form1.resources
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.Properties.Resources.resources
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\Computation\Computation\bin\Debug\Computation.exe.config
+C:\Users\gage_\source\repos\Computation\Computation\bin\Debug\Computation.exe
+C:\Users\gage_\source\repos\Computation\Computation\bin\Debug\Computation.pdb
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.exe
+C:\Users\gage_\source\repos\Computation\Computation\obj\Debug\Computation.pdb

@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\bin\Debug\Project 1 CTS.exe.config
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\bin\Debug\Project 1 CTS.exe
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\bin\Debug\Project 1 CTS.pdb
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project 1 CTS.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project_1_CTS.Form1.resources
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project_1_CTS.Properties.Resources.resources
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project 1 CTS.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project 1 CTS.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project 1 CTS.exe
+C:\Users\gage_\source\repos\Project 1 CTS\Project 1 CTS\obj\Debug\Project 1 CTS.pdb
