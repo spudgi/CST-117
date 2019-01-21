@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.Form1.resources
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.Properties.Resources.resources
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\bin\Debug\IAmWeek2.exe.config
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\bin\Debug\IAmWeek2.exe
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\bin\Debug\IAmWeek2.pdb
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.exe
+C:\Users\gage_\source\repos\IAmWeek2\IAmWeek2\obj\Debug\IAmWeek2.pdb
