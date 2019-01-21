@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.Form1.resources
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.Properties.Resources.resources
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\bin\Debug\TimeConvert.exe.config
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\bin\Debug\TimeConvert.exe
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\bin\Debug\TimeConvert.pdb
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.exe
+C:\Users\gage_\source\repos\TimeConvert\TimeConvert\obj\Debug\TimeConvert.pdb
