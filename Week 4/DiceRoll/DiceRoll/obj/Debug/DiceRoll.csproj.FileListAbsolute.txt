@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Form1.resources
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Properties.Resources.resources
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\gage_\source\repos\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
