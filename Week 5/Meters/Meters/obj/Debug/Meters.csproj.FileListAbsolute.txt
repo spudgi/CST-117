@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\Meters\Meters\bin\Debug\Meters.exe.config
+C:\Users\gage_\source\repos\Meters\Meters\bin\Debug\Meters.exe
+C:\Users\gage_\source\repos\Meters\Meters\bin\Debug\Meters.pdb
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.Form1.resources
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.Properties.Resources.resources
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.exe
+C:\Users\gage_\source\repos\Meters\Meters\obj\Debug\Meters.pdb

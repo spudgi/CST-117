@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\bin\Debug\Carbohydrates.exe.config
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\bin\Debug\Carbohydrates.exe
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\bin\Debug\Carbohydrates.pdb
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.Form1.resources
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.Properties.Resources.resources
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.exe
+C:\Users\gage_\source\repos\Carbohydrates\Carbohydrates\obj\Debug\Carbohydrates.pdb
