@@ -1,0 +1,10 @@
+C:\Users\gage_\source\repos\LetterCount\LetterCount\bin\Debug\LetterCount.exe.config
+C:\Users\gage_\source\repos\LetterCount\LetterCount\bin\Debug\LetterCount.exe
+C:\Users\gage_\source\repos\LetterCount\LetterCount\bin\Debug\LetterCount.pdb
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.csprojAssemblyReference.cache
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.Form1.resources
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.Properties.Resources.resources
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.csproj.GenerateResource.cache
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.csproj.CoreCompileInputs.cache
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.exe
+C:\Users\gage_\source\repos\LetterCount\LetterCount\obj\Debug\LetterCount.pdb
